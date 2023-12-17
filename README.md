@@ -15,7 +15,7 @@ Does Latin-English translation impact authorship attribution?
     -  [ ] multi conv layers?
     -  [ ] try switching models?
     -  [ ] F1 scoring?
--  [x] Latin BERT, a pre-trained contextual language model for the Latin language, trained on 642.7 million words from a variety of sources spanning the Classical era to the 21st century
+-  [x] Multilingual BERT + linear classifier.
 ### Write up checklist
 - [ ] Abstract: A short overview of the paper.
 - [ ] Introduction:What is the motivation behind the project? In general terms, what is the hypothesis that you test and how do you go about doing so?
