@@ -2,19 +2,17 @@
 Does Latin-English translation impact authorship attribution?
 
 ## Checklist
--  [ ] LSTM RNN as they are adept at capturing sequential information. 
+-  [x] LSTM RNN as they are adept at capturing sequential information. 
     - [x] make la and en model with the same architecture
     - [x] 1 layer LSTM
-    - [ ] multi-layer LSTM
     - [x] accuracy scoring
-    - [ ] F1 Scoring, confusion matrix
+    - [x] F1 Scoring
     - [ ] remove personal paths
 -  [ ] Bag-of-N with SVM using a varying N since SVMs are made for multi-class classification.
 -  [x] Character Level CNNs as they can capture morphological details and are less sensitive to misspellings or variations in word forms.
     -  [x] 1 conv layer
-    -  [ ] multi conv layers?
     -  [ ] try switching models?
-    -  [ ] F1 scoring?
+    -  [x] F1 scoring?
 -  [x] Multilingual BERT + linear classifier.
 ### Write up checklist
 - [ ] Abstract: A short overview of the paper.
