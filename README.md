@@ -8,8 +8,8 @@ Folder composed of CSVs of various processings of the [latin-english_translation
 Folder containing Python notebooks of the data exploration of the models examined and figures outputted by those models. 
 *  [CNN](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/CNN_550.ipynb)
 *  [RNN](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/RNN.ipynb)
-*  [CNN](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/SVMipynb)
-*  [CNN](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/mBERT.ipynb)
+*  [SVM](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/SVMipynb)
+*  [mBERT](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/Models/mBERT.ipynb)
 
 ### Sample Figures
 #### CNN Accuracies
