@@ -12,8 +12,7 @@ Folder containing Python notebooks of the data exploration of the models examine
     * SVM
 
 ### Sample Figures
-####CNN Accuracies
-
+#### CNN Accuracies
 ![alt text](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/CNNAcc.png?raw=true "CNN Accuracies")
 #### RNN Accuracies
 ![alt text](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/RNNacc.png?raw=true "RNN Accuracies")
