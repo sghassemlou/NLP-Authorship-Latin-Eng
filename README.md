@@ -6,9 +6,9 @@ Folder composed of CSVs of various processings of the [latin-english_translation
 
 ## Exploration
 Folder containing Python notebooks of the data exploration of the models examined and figures outputted by those models. 
-    - CNN
-    - RNN
-    - mBERT
-    - SVM
+    * CNN
+    * RNN
+    * mBERT
+    * SVM
 
-
+![alt text](https://github.com/sghassemlou/NLP-Authorship-Latin-Eng/blob/main/Exploration/RNNacc.png?raw=true "RNN Accuracies")
